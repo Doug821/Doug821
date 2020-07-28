@@ -1,6 +1,5 @@
 ### Hi there 👋
-https://img.shields.io/twitter/follow/dougsilva821?label=Doug821&style=social
-
+[![Twitter Badge](https://img.shields.io/twitter/follow/dougsilva821?label=Doug821&style=social)](https://twitter.com/dougsilva821)
 <!--
 **Doug821/Doug821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-image:https://img.shields.io/twitter/follow/dougsilva821?label=Doug821&style=social[Twitter Follow]
