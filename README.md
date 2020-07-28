@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Twitter Badge](https://img.shields.io/twitter/follow/dougsilva821?label=Doug821&style=social)](https://twitter.com/dougsilva821)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-silva821)(https://www.linkedin.com/in/douglas-silva821)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-silva821)](https://www.linkedin.com/in/douglas-silva821)
 <!--
 **Doug821/Doug821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
