@@ -1,4 +1,5 @@
 ### Hi there 👋
+https://img.shields.io/twitter/follow/dougsilva821?label=Doug821&style=social
 
 <!--
 **Doug821/Doug821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
