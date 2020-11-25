@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Douglas, I'm always programming something.
+My name is Douglas.
 - 🔭 I’m currently working on my portolio website.
 - 🌱 I’m currently learning ReactJs⚛.
 
