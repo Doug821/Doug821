@@ -1,6 +1,5 @@
 ### Hi there 👋
 My name is Douglas.
-- 🔭 I’m currently working on my portolio website.
 - 🌱 I’m currently learning ReactJs⚛.
 
 If you would like to exchange ideas about it, talk to me, I would love to help and learn together.
