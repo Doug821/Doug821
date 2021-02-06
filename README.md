@@ -7,4 +7,4 @@ If you would like to exchange ideas about software developmnet and mindset, talk
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/douglas-silva821)
 
 
-> Quando te oferecerem um assento em um foguete, você não pergunta qual assento, você simplesmente embarca. 
+> When you are offered a seat on a rocket, you do not ask which seat, you simply board. @[Rocketseat](https://github.com/Rocketseat "Rocketseat")
