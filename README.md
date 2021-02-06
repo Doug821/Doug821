@@ -1,6 +1,5 @@
 ### Hi there 👋
-My name is Douglas.
-- 🌱 I’m currently learning ReactJs⚛.
+My name is Douglas, I'm a front-end developer.
 
 If you would like to exchange ideas about it, talk to me, I would love to help and learn together.
 
